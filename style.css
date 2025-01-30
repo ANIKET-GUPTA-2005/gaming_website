@@ -456,6 +456,11 @@ header {
     margin: 0 10px;
 }
 
+.stones-img{
+    position: absolute;
+    margin-top: 22%;
+    width: 500px;
+}
 
 /* blur effect animation  */
 .autoBlur{
@@ -566,6 +571,21 @@ header {
         bottom: 0;
         width: 150px;
         height: 180px;
+    }
+    .contact-section h1{
+        font-size: 60px;
+        max-width: 300px;
+    }
+    .footer p{
+        display: none;
+    }
+    .footer ul{
+        margin-left: 70px;
+    }
+
+    .stones-img{
+        margin-top: 80%;
+        width: 400px;
     }
     
 }
