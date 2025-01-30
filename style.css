@@ -68,6 +68,10 @@ header {
     padding-left: 25px;
     color: white;
     font-size: 15px;
+    transition: all 0.3s;
+}
+.head-right a:hover {
+    color: rgb(0, 255, 221);
 }
 
 
